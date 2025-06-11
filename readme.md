@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Artur Felipe
+# 👋 Olá! Eu sou o Artur Felipe Albuquerque Portela
 
 🎯 Em transição para a área de tecnologia com foco em **Qualidade de Software (QA)**  
 🧪 Experiência com testes manuais e automatizados usando **Cypress**, **Postman** e **JavaScript**  
